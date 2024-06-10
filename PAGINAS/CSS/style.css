@@ -1,0 +1,167 @@
+/* Personalisacion de BODY*/
+body{
+    background-color: white;
+    margin: 0%;
+}
+
+/* Personalisacion de BOTONES */
+
+.boton_inicio{
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: Montserrat;
+    display: inline-block;
+}
+
+
+.boton{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Montserrat;
+    border-bottom: 2px solid black;
+}
+
+
+/* Personalisacion de SUBCATEGORIAS */
+.Subcategoria{
+    margin: 7%;
+    padding: 2%;
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+}
+
+/* Personalisacion GENERAL DE LA WEB*/
+
+.titulo{
+    padding: 2.5%;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.footer{
+    padding: 2.5%;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.prenda{
+    width: 90%;
+    margin-top: 1%;
+}
+
+/* Personalisacion de IMAGENES*/
+
+.logo{
+    width: 5%;
+    display: inline-block;
+    vertical-align: middle;  
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.foto_producto{
+    width: 20%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.foto_inicio{
+    width: 30%;
+    margin: 0%;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    display: inline-block;
+}
+
+/* Personalisacion de TEXTOS*/
+
+#redessociales{
+    width: 43%;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+
+.texto{
+    width: 63%;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+.texto_footer{
+    width: 48%;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 1%;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+}
+
+
+h2{
+    font-family: Montserrat;
+    color: white;
+}
+
+h1{
+    font-family: Montserrat;
+    color: white ;
+}
+
+.precio{
+    margin: 0%;
+    width: 15%;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Montserrat;
+    color: white;
+    font-weight: 500 ;
+}
+
+
+
+/* Personalisacion de LOGIN Y SING UP */
+#login{
+    margin: 7%;
+    padding: 2%;
+    background-color: black;
+    border-radius: 25px;
+}
+
+#signup{
+    margin: 7%;
+    padding: 2%;
+    background-color: black;
+    border-radius: 25px;
+}
+
+input{
+    width: 20%;
+    color: white;
+    background-color: black;
+    border: 0px solid black;
+    border-bottom: 2px solid white;
+}
+
+
+.carrusel{
+    width: 30%;
+    margin-top: 2%;
+}
