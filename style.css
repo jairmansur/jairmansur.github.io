@@ -142,13 +142,26 @@ h1{
 
 
 .currusel{
-    width: 80%;
+    width: 30%;
     margin: 5%;
-    margin-left: 9%;
+    margin-left: 34.7%;
+    border: 5px solid #2b4a76;
 }
 
 
 .proa{
     width: 6%;
-    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
+#login{
+    margin: 7%;
+    padding: 2%;
+    background-color: black;
+    border-radius: 25px;
+}
+
+#busqueda{
+    margin-top: 5%;
 }
