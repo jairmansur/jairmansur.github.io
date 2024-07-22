@@ -41,6 +41,7 @@ body{
     padding: 2.5%;
     background-color: #2b4a76;
     margin-bottom: 10px;
+    padding-left: 7%;
 }
 
 .footer{
@@ -154,7 +155,7 @@ h1{
 
 .proa{
     width: 6%;
-    margin-right: 2%;
+    margin-right: 0%;
     margin-bottom: 2%;
 }
 
@@ -177,4 +178,8 @@ label{
 .submit{
     margin-left: 1%;
     margin-top: 1%;
+}
+
+.elem{
+    width: 84%;
 }
