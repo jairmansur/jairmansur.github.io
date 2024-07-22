@@ -18,11 +18,11 @@ body{
 
 .boton{
     background-color: white;
-    color: #bb252b;
+    color: #2b4a76;
     text-decoration: none;
     padding: 10px;
     font-family: sans-serif;
-    border-bottom: 2px solid #2b4a76;
+    border: 2px solid #2b4a76;
 }
 
 
